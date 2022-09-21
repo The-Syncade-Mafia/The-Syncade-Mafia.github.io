@@ -5,5 +5,4 @@
 
 </p>
 <h1 align="center">Syncade Private Dark Web Secure Login</h1>  
-| WARNING: be careful to baz the quux before initializing the retro encabulator! |  
-|---------------|
+<p style="border-width:3px; border-style:solid; border-color:#FF0000; padding: 1em;">First example with text surrounded by a red border.<br>This example also has multiple lines.</p>
