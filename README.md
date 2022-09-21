@@ -6,4 +6,7 @@
 </p>
 <h1 align="center">Syncade Private Dark Web Secure Login</h1>  
 
-<p align="center" style="border-width:3px; border-style:solid; border-color:#FF0000; padding: 1em;">First example with text surrounded by a red border.<br>This example also has multiple lines.</p>
+<p align="center" style="border-width:3px; border-style:solid; border-color:#FF0000; padding: 1em;">
+<label for="psw"><b>ENTRY CODE</b></label>
+<input type="password" placeholder="Enter ENTRY CODE" name="ec" required>
+</p>
