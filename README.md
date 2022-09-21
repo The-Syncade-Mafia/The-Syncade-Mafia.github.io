@@ -6,3 +6,4 @@
 </p>
 <h1 align="center">Syncade Private Dark Web Secure Login</h1>  
 | WARNING: be careful to baz the quux before initializing the retro encabulator! |
+|---------------|
