@@ -1,7 +1,7 @@
 function sumbit() {
   const ec = document.getElementsByName("ec"); 
   if ec == "XXJUYCBFU3GBCN3U9" {
-    document.location = "/dweb/darkweb";
+    document.location = "https://the-syncade-mafia.github.io/dweb/darkweb";
   } 
 }
 function submit() {
