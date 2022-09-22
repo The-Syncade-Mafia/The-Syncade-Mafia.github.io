@@ -8,5 +8,6 @@
 <p align="center" style="border-width:3px; border-style:solid; border-color:#FF0000; padding: 1em;">
 <label for="ec"><b>ENTRY CODE</b></label><br>
 <input type="password" placeholder="Enter ENTRY CODE" name="ec" required>
+<button onclick="sumbit()">Enter</button>
 <script src="entrycode.js"></script>
 </p>
