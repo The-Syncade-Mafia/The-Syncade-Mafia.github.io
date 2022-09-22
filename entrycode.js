@@ -11,3 +11,6 @@ function submit() {
   } 
 }
 //bruh
+function pleaseupdate() {
+  const imlitbegginu = "im not joking";
+}
