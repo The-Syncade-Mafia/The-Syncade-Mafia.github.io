@@ -6,10 +6,9 @@
 </p>
 <h1 align="center">Syncade Private Dark Web Secure Login</h1>  
 <p align="center" style="border-width:3px; border-style:solid; border-color:#FF0000; padding: 1em;">
-<label for="psw"><b>ENTRY CODE</b></label><br>
-<?php
-<form action="/dweb/darkweb.php" method="get">
+<label for="ec"><b>ENTRY CODE</b></label><br>
 <input type="password" placeholder="Enter ENTRY CODE" name="ec" required>
-</form>
-?>
+<script>
+const ec = document.getElementsByName("ec"); 
+</script>
 </p>
