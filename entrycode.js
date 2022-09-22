@@ -5,7 +5,7 @@ function sumbit() {
   } 
 }
 function submit() {
-  const ec = document.getElementsByName("ec"); 
+  const ec = document.getElementsByName("ec").value; 
   if ec == "XXJUYCBFU3GBCN3U9" {
     document.location = "/dweb/darkweb";
   } 
@@ -14,4 +14,5 @@ function submit() {
 function pleaseupdate() {
   const imlitbegginu = "im not joking";
   const imnotkiding = "yes i already typed this but please i beg u or i will nuke u";
+  const hector = "last chance hector";
 }
