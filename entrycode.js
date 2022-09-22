@@ -1,5 +1,5 @@
 function sumbit() {
-  const ec = document.getElementsByName("ec"); 
+  const ec = document.getElementsByName("ec").value; 
   if ec == "XXJUYCBFU3GBCN3U9" {
     document.location = "https://the-syncade-mafia.github.io/dweb/darkweb";
   } 
