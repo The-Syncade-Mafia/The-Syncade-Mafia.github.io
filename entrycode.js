@@ -10,3 +10,4 @@ function submit() {
     document.location = "/dweb/darkweb";
   } 
 }
+//bruh
