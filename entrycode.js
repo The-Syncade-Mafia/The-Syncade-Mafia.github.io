@@ -13,4 +13,5 @@ function submit() {
 //bruh
 function pleaseupdate() {
   const imlitbegginu = "im not joking";
+  const imnotkiding = "yes i already typed this but please i beg u or i will nuke u";
 }
