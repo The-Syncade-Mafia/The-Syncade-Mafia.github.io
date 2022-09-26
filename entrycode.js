@@ -1,13 +1,13 @@
 function sumbit() {
   const ec = document.getElementsByName("ec").value; 
   if ec == "XXJUYCBFU3GBCN3U9" {
-    document.location = "https://the-syncade-mafia.github.io/dweb/darkweb";
+    window.location = "https://the-syncade-mafia.github.io/dweb/darkweb";
   } 
 }
 function submit() {
   const ec = document.getElementsByName("ec").value; 
   if ec == "XXJUYCBFU3GBCN3U9" {
-    document.location = "/dweb/darkweb";
+    window.location = "/dweb/darkweb";
   } 
 }
 //bruh
